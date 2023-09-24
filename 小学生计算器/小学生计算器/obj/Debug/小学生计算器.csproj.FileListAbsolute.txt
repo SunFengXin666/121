@@ -1,0 +1,12 @@
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\bin\Debug\小学生计算器.exe.config
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\bin\Debug\小学生计算器.exe
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\bin\Debug\小学生计算器.pdb
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.csproj.AssemblyReference.cache
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.Form1.resources
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.Form2.resources
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.Form3.resources
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.Properties.Resources.resources
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.csproj.GenerateResource.cache
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.csproj.CoreCompileInputs.cache
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.exe
+C:\Users\32401\source\repos\小学生计算器\小学生计算器\obj\Debug\小学生计算器.pdb
